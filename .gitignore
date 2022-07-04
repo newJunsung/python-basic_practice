@@ -1,3 +1,5 @@
 /.vscode
+/__pycache*
+/travel/__pycache*
 *.txt
 *.pick*
